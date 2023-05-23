@@ -1,0 +1,3 @@
+﻿  VeriYapilari.cpp
+C:\Users\sinan\source\repos\VeriYapilari\VeriYapilari\VeriYapilari.cpp(24,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  VeriYapilari.vcxproj -> C:\Users\sinan\source\repos\VeriYapilari\x64\Debug\VeriYapilari.exe
